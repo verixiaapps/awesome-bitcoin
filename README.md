@@ -105,6 +105,8 @@
 - [Bitcoin Optech](https://bitcoinops.org/) - A resource for Bitcoin developers and technical updates.
 - [Bitcoin and Cryptocurrency Technologies (Coursera)](https://www.coursera.org/learn/cryptocurrency) - A free course on Bitcoin and cryptocurrency technologies.
 - [Bitcoin Wiki](https://en.bitcoin.it/wiki/Main_Page) - A comprehensive resource for Bitcoin information.
+- [HostDeFi](https://hostdefi.com) - Token-safety scanner and multi-chain DEX front-end: free A+–F risk grades on Solana and 8 EVM chains plus a keyless REST API.
+
 
 ## Books
 
